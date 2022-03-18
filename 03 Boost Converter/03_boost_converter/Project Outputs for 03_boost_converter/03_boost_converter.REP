@@ -1,0 +1,219 @@
+*************************************************************
+FileName = 03_boost_converter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 13
+      File : 03_boost_converter.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : 03_boost_converter.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D32
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 03_boost_converter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : 03_boost_converter.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 03_boost_converter.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 03_boost_converter.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : 03_boost_converter.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 03_boost_converter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 03_boost_converter.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 03_boost_converter.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 03_boost_converter.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 03_boost_converter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : 03_boost_converter.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 03_boost_converter.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D30
+    D31
+*************************************************************
+

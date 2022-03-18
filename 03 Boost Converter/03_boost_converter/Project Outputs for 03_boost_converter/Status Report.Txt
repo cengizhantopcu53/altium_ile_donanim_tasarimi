@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [03_boost_converter.PrjPcb]
+   Generated File[03_boost_converter.GTO]
+   Generated File[03_boost_converter.GTP]
+   Generated File[03_boost_converter.GTS]
+   Generated File[03_boost_converter.GTL]
+   Generated File[03_boost_converter.GBL]
+   Generated File[03_boost_converter.GBS]
+   Generated File[03_boost_converter.GM1]
+   Generated File[03_boost_converter.GM13]
+   Generated File[03_boost_converter.GM15]
+   Generated File[03_boost_converter.GKO]
+   Generated File[03_boost_converter.GPT]
+   Generated File[03_boost_converter.GPB]
+   Generated File[03_boost_converter.GD1]
+   Generated File[03_boost_converter.GG1]
+   Generated File[03_boost_converter.RUL]
+   Generated File[03_boost_converter.EXTREP]
+   Generated File[03_boost_converter.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 03:21:08 On 30.01.2022
