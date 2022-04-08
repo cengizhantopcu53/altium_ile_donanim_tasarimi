@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [03_boost_converter.PcbDoc]
+   Generated File[03_boost_converter-Plated.TXT]
+   Generated File[03_boost_converter.LDP]
+   Generated File[03_boost_converter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 03:00:34 On 8.04.2022
