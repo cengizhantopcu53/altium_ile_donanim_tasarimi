@@ -2,7 +2,6 @@
 
 https://linktr.ee/cengizhantopcu53
 
-
 Altium ile PCB Çizimi
 
 01 Giriş
