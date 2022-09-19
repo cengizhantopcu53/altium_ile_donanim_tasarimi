@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3V3DC_S Pin=J8-1
+Removed Pin From Net: NetName=GND_S Pin=J8-2
+Removed Pin From Net: NetName=LED_S Pin=J8-3
+Removed Pin From Net: NetName=TEMP_ADC Pin=J8-4
+Removed Pin From Net: NetName=PIRDETECT Pin=J8-5
+Added Pin To Net: NetName=PIRDETECT Pin=J8-2
+Added Pin To Net: NetName=TEMP_ADC Pin=J8-3
+Added Pin To Net: NetName=LED_S Pin=J8-4
+Added Pin To Net: NetName=GND_S Pin=J8-5
+Added Pin To Net: NetName=3V3DC_S Pin=J8-6
+Added Member To Class: ClassName=U_Power Member=Component U1 LM2675MX-12/NOPB

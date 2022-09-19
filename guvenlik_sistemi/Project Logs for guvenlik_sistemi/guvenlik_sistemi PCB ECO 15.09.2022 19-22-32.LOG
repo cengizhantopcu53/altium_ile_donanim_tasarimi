@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PIRDETECT Pin=J8-2
+Removed Pin From Net: NetName=TEMPERATURE_ADC Pin=J8-3
+Removed Pin From Net: NetName=LED_S Pin=J8-4
+Removed Pin From Net: NetName=GND_S Pin=J8-5
+Removed Pin From Net: NetName=3V3DC_S Pin=J8-6
+Added Pin To Net: NetName=3V3DC_S Pin=J8-1
+Added Pin To Net: NetName=GND_S Pin=J8-2
+Added Pin To Net: NetName=LED_S Pin=J8-3
+Added Pin To Net: NetName=TEMPERATURE_ADC Pin=J8-4
+Added Pin To Net: NetName=PIRDETECT Pin=J8-5
