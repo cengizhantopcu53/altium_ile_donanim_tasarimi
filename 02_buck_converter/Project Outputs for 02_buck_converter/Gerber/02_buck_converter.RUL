@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\AD20\Project\AltiumilePcbCizimi_Project\02_buck_converter\02_buck_converter.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.98
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.98
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
