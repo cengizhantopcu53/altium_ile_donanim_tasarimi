@@ -8,7 +8,7 @@ Altium ile PCB Çizimi
 
 3.Şematik Tasarım
 
-5.PCB Tasarım
+4.PCB Tasarım
 
 5.Üretim Dosyalarını Oluşturma
 
