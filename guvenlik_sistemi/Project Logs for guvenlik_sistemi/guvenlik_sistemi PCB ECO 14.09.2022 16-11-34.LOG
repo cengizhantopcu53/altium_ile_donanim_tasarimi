@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=BUZZER Pin=R13-2
-Removed Member From Class: ClassName=U_Microcontroller Member=R13
-Added Pin To Net: NetName=BUZZER Pin=U3-27

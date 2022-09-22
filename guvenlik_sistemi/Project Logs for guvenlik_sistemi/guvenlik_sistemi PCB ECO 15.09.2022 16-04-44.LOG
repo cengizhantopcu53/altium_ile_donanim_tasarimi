@@ -1,4 +1,0 @@
-Change Net Name : Old Net Name=TEMP_ADC New Net Name=TEMPERATURE_ADC
-Added Pin To Net: NetName=TEMP_ADC Pin=J7-4
-Added Pin To Net: NetName=TEMP_ADC Pin=U3-19
-Added Net: Name=TEMP_ADC

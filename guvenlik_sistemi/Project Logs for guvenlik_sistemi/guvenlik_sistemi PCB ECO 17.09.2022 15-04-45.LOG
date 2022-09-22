@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=LED_DRIVER Pin=J7-3
-Removed Pin From Net: NetName=TEMP_ADC Pin=J7-4
-Removed Pin From Net: NetName=LED_S Pin=J8-3
-Removed Pin From Net: NetName=TEMPERATURE_ADC Pin=J8-4
-Added Pin To Net: NetName=TEMP_ADC Pin=J7-3
-Added Pin To Net: NetName=LED_DRIVER Pin=J7-4
-Added Pin To Net: NetName=TEMPERATURE_ADC Pin=J8-3
-Added Pin To Net: NetName=LED_S Pin=J8-4
-Added Member To Class: ClassName=U_Microcontroller Member=Component BZ1 CMI-9605IC-0580T
