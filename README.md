@@ -11,10 +11,10 @@
 
 #### Projeler
 
-  - **[Uçuş Kontrol](https://github.com/cengizhantopcu53/ucus_kontrol)**
+  - [Uçuş Kontrol](https://github.com/cengizhantopcu53/ucus_kontrol)
 
-  - **[Buck Converter](https://github.com/cengizhantopcu53/buck_converter)**
+  - [Buck Converter](https://github.com/cengizhantopcu53/buck_converter)
 
-  - **[Boost Converter](https://github.com/cengizhantopcu53/boost_converter)**
+  - [Boost Converter](https://github.com/cengizhantopcu53/boost_converter)
 
-  - **[Güvenlik Sistemi](https://github.com/cengizhantopcu53/guvenlik_sistemi)**
+  - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/guvenlik_sistemi)
