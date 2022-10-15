@@ -1,15 +1,15 @@
 
 # Altium ile PCB Çizimi
 
-#### 01 Kütüphane Oluşturma
+- #### 01 Kütüphane Oluşturma
 
-#### 02 Şematik Tasarım
+- #### 02 Şematik Tasarım
 
-#### 03 PCB Tasarım
+- #### 03 PCB Tasarım
 
-#### 04 Üretim Dosyalarını Oluşturma
+- #### 04 Üretim Dosyalarını Oluşturma
 
-#### Projeler 
+- #### Projeler 
 **[Uçuş Kontrol](https://github.com/cengizhantopcu53/ucus_kontrol)**
 
 **[Buck Converter](https://github.com/cengizhantopcu53/buck_converter)**
