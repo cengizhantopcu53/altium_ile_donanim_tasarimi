@@ -12,7 +12,7 @@ Altium ile PCB Çizimi
 
 Projeler
 
-Uçuş Kontrol Kartı
+Uçuş Kontrol
 
 Buck Converter
 
