@@ -9,7 +9,7 @@
 
 #### 04 Üretim Dosyalarını Oluşturma
 
-- #### Projeler
+#### Projeler
 
   - **[Uçuş Kontrol](https://github.com/cengizhantopcu53/ucus_kontrol)**
 
