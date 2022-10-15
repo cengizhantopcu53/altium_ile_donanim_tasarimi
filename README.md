@@ -10,10 +10,10 @@
 #### 04 Üretim Dosyalarını Oluşturma
 
 #### Projeler 
-- [x] **Uçuş Kontrol**
+- [x] **[Uçuş Kontrol](https://github.com/cengizhantopcu53/ucus_kontrol)**
 
-- [x] **Buck Converter**
+- [x] **[Buck Converter](https://github.com/cengizhantopcu53/buck_converter)**
 
-- [x] **Boost Converter**
+- [x] **[Boost Converter](https://github.com/cengizhantopcu53/boost_converter)**
 
 - [x] **[Güvenlik Sistemi](https://github.com/cengizhantopcu53/guvenlik_sistemi)**
