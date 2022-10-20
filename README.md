@@ -18,3 +18,7 @@
   - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/03_boost_converter)
 
   - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/guvenlik_sistemi)
+
+##
+***Altium ile PCB Çizimi konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://lnkd.in/d-QzRE9U) ya da üsteki pdf'ten ulaşabilirsiniz.*** 
+##
