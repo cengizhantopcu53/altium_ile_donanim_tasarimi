@@ -17,4 +17,4 @@
 
   - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/03_boost_converter)
 
-  - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/guvenlik_sistemi)
+  - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/guvenlik_sistemi)
