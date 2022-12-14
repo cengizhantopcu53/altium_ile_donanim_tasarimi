@@ -12,10 +12,6 @@ Güvenlik Sistemi pcb kartı 19.09.2022 tarihinde linkteki [kurs](https://www.ud
 - Pcb kartı 4 katmanlıdır 
 - Kartın bir bölümü kırılabilir yapıdadır ve bu kısım işlemciye konnektör ile bağlantılıdır.
 
-##
-***Altium ile PCB Çizimi konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://lnkd.in/d-QzRE9U) ulaşabilirsiniz.*** 
-##
-
 <br>
 
 <p align="left">
