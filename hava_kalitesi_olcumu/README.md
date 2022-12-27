@@ -1,16 +1,14 @@
-# Güvenlik Sistemi
+# Hava Kalitesi Ölçümü
 
-Güvenlik Sistemi pcb kartı 19.09.2022 tarihinde linkteki [kurs](https://www.udemy.com/course/altium-designer-donanim-tasarim/) izlenerek tamamlanmıştır.
+Hava Kalitesi Ölçümü pcb kartı 20.11.2022 tarihinde tamamlanmıştır.
 
-- 220V AC ile çalışabilmektedir. 
-- 12V DC , 5V DC ve 3.3V DC güç çıkışı bulunmaktadır.
+- Kartımızın giriş voltajı 12V'tur. 
+- 5V ve 3.3V güç çıkışı bulunmaktadır.
+- Güç girişin ters bağlanmasına karşı diyot, kısa devrelere karşı uygun değerde sigorta kullanılmıştır.
 - İşlemci olarak STM32F103C8T6 kullanılmaktadır.
-- Bilgisayara bağlanabilir ve veri aktarabilir.
-- Gerçek zamanlı saat bilgisi ile anlık ortam sıcaklık verisini kullanıcıya aktarabilmektedir.
-- Hareket algılandığında kullanıcıya uyarı verebilmektedir.
-- Wi-Fi ile internete bağlanablmektedir.
-- Pcb kartı 4 katmanlıdır 
-- Kartın bir bölümü kırılabilir yapıdadır ve bu kısım işlemciye konnektör ile bağlantılıdır.
+- SO2, NO2, CO ve CO2 gazlarının ölçümü yapılmaktadır. Sensör seçiminde KEMET marka ürünün TO39 paketli ürün grubu kullanılmıştır.
+- haberleşme için SIM800C GSM/GPRS modülü kullanılmıştır.
+- Pcb kartı 2 katmanlıdır 
 
 ##
 ***Altium ile PCB Çizimi konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://lnkd.in/d-QzRE9U) ulaşabilirsiniz.*** 
@@ -19,17 +17,13 @@ Güvenlik Sistemi pcb kartı 19.09.2022 tarihinde linkteki [kurs](https://www.ud
 <br>
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64609951/195999327-2caf207a-4f09-4178-b9a5-d6bb9fc23212.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999359-4df3a7bc-fb13-4cf9-a08a-1f906e4578ea.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999412-61994426-5059-4b4e-a78f-8d774e068407.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999419-ca019d96-9675-467d-8959-ad21955b9225.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999437-4bc2f17d-6157-48ba-828b-ebd926f78fc0.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999438-b54f36bc-4656-437f-a1ec-c77800d0d8c5.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999441-27fdf669-d706-444d-b3bb-e8b320fddc11.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999463-b7c98138-d2e2-46fa-8292-49b466baeec8.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999464-c73c6e3e-1a36-4ca4-9cf9-7cb0b986db5c.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999466-57a81ec9-1888-47da-939b-a624452fe318.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999500-980420a8-36b8-407e-8c40-67275f35234b.png" width="600"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999503-32e692b3-c614-4acb-8742-a55579d0cc7a.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209705055-c783c321-852f-46ad-9b34-f51ce31b64cb.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209705060-362ddac0-3c0e-4eb3-adb8-e2e747035e0f.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209705061-04d30008-4e0e-455d-b5c8-a0b1ae15b0b1.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209705062-0147635d-c5d8-4d54-a870-d7ff858633f0.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209705064-5a6dc0e3-8eea-41f2-ba3b-15c2a913ec77.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209705065-d413abdc-fc6d-4d97-a13c-87822c8ddfcc.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209705066-83dcd473-3446-4941-951d-b8844c6f59e6.png" width="600"><br>
+
 </p>
 
