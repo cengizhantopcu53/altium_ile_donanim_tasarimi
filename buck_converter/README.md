@@ -1,6 +1,6 @@
-# Buck converter
+# Buck Converter
 
-Buck converter pcb kartı linkteki [video](https://www.youtube.com/watch?v=n6VyZIZuCj0) izlenerek tamamlanmıştır.
+Buck Converter pcb kartı linkteki [video](https://www.youtube.com/watch?v=n6VyZIZuCj0) izlenerek tamamlanmıştır.
 
 - LM2596 voltaj regülatörü kullanılmıştır.
 - Çıkış voltajı 12V'tur.
