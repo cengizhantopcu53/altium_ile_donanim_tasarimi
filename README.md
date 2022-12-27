@@ -11,13 +11,12 @@
 
 #### Projeler
 
-  - [Uçuş Kontrol](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/01_giris)
+  - [Uçuş Kontrol](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/ucus_kontrol)
 
-  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/02_buck_converter)
+  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/buck_converter)
 
-  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/03_boost_converter)
-  
-  - [Hava Kalitesi Ölçümü](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/hava_kalitesi_olcumu)
+  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/boost_converter)
 
   - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/guvenlik_sistemi)
- 
+
+  - [Hava Kalitesi Ölçümü](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/hava_kalitesi_olcumu)
