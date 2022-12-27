@@ -2,12 +2,11 @@
 
 Uçuş Kontrol pcb kartı linkteki [kurs](https://www.youtube.com/playlist?list=PL0nSGdzTE4g_wqTei7HLfgDrX8tR8PREq) izlenerek tamamlanmıştır.
 
-- İşlemci olarak STM32F103C8T6 kullanılmaktadır.
-- 7-12V ile beslenmekte ve 5V DC ve 3.3V DC güç çıkışı bulunmaktadır.
-- Sensör olarak BMP280 basınç sensörü ile MPU6050 ivme sensörü kullanılmıştır.
+- 7-12V ile beslenmekte ve 5V ve 3.3V güç çıkışı bulunmaktadır.
 - Kullanıcının kullanabileceği led ve buton bulunmaktadır.
+- İşlemci olarak STM32F103C8T6 kullanılmaktadır.
+- Sensör olarak BMP280 basınç sensörü ile MPU6050 ivme sensörü kullanılmıştır.
 - SD CARD ile veriler kaydedilebilir.
-- Wi-Fi ile internete bağlanablmektedir.
 - Pcb kartı 2 katmanlıdır 
 
 ##
