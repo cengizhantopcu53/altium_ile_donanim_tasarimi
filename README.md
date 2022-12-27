@@ -11,7 +11,7 @@
 
 #### Projeler
 
-  - [Uçuş Kontrol](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/01_giris)
+  - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/01_giris)
 
   - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/02_buck_converter)
 
