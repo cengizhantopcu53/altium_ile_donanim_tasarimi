@@ -22,8 +22,8 @@ Hava Kalitesi Ölçümü pcb kartı 20.11.2022 tarihinde tamamlanmıştır.
   <img src="https://user-images.githubusercontent.com/64609951/209705061-04d30008-4e0e-455d-b5c8-a0b1ae15b0b1.png" width="1000"><br>
   <img src="https://user-images.githubusercontent.com/64609951/209705062-0147635d-c5d8-4d54-a870-d7ff858633f0.png" width="1000"><br>
   <img src="https://user-images.githubusercontent.com/64609951/209705064-5a6dc0e3-8eea-41f2-ba3b-15c2a913ec77.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209705065-d413abdc-fc6d-4d97-a13c-87822c8ddfcc.png" width="600"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209705066-83dcd473-3446-4941-951d-b8844c6f59e6.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209854157-f320871c-11f7-4716-9725-e82b67833a98.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209854154-f32b9e7f-8930-4d1b-a8cf-de85839da8ff.png" width="600"><br>
 
 </p>
 
