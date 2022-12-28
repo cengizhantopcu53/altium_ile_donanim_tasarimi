@@ -1,6 +1,6 @@
 # Güvenlik Sistemi
 
-Güvenlik Sistemi pcb kartı 19.09.2022 tarihinde linkteki [kurs](https://www.udemy.com/course/altium-designer-donanim-tasarim/) izlenerek tamamlanmıştır.
+Güvenlik Sistemi pcb kartı 19.09.2022 tarihinde linkteki [kurs](https://www.udemy.com/course/altium-designer-donanim-tasarim/) izlenerek tamamlanmıştır.<br>
 Linkedln paylaşımıma [link](https://www.linkedin.com/feed/update/urn:li:activity:6979757020350435328/) üzerinden ulaşabilirsiniz.
 
 - 220V AC ile çalışabilmektedir. 
