@@ -30,7 +30,7 @@ Linkedln paylaşımıma [link](https://www.linkedin.com/feed/update/urn:li:activ
   <img src="https://user-images.githubusercontent.com/64609951/195999463-b7c98138-d2e2-46fa-8292-49b466baeec8.png" width="1000"><br>
   <img src="https://user-images.githubusercontent.com/64609951/195999464-c73c6e3e-1a36-4ca4-9cf9-7cb0b986db5c.png" width="1000"><br>
   <img src="https://user-images.githubusercontent.com/64609951/195999466-57a81ec9-1888-47da-939b-a624452fe318.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999500-980420a8-36b8-407e-8c40-67275f35234b.png" width="600"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/195999503-32e692b3-c614-4acb-8742-a55579d0cc7a.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209919306-0c1cc476-16f5-45f8-9d37-4039c8b44d60.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/209919308-978170ae-6b8c-41eb-a08e-663b4e71c370.png" width="600"><br>
 </p>
 
