@@ -16,7 +16,7 @@ Uçuş Kayit pcb kartı linkteki [kurs](https://www.youtube.com/playlist?list=PL
 <br>
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64609951/210274831-463d2562-3682-48ff-893e-373eb2eb0708.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/210274831-463d2562-3682-48ff-893e-373eb2eb0708.png" width="1001"><br>
   <img src="https://user-images.githubusercontent.com/64609951/210275204-ea4f4d54-d233-4ec7-afd3-be65861ad845.png" width="600"><br>
   <img src="https://user-images.githubusercontent.com/64609951/210275202-4e2831e2-1cdf-4be9-96be-294bba4d0f47.png" width="600"><br>
 </p>
