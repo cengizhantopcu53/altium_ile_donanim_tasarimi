@@ -1,4 +1,4 @@
-# Uçuş Kayit
+# Uçuş Kayıt
 
 Uçuş Kayit pcb kartı linkteki [kurs](https://www.youtube.com/playlist?list=PL0nSGdzTE4g_wqTei7HLfgDrX8tR8PREq) izlenerek tamamlanmıştır.
 
@@ -16,8 +16,8 @@ Uçuş Kayit pcb kartı linkteki [kurs](https://www.youtube.com/playlist?list=PL
 <br>
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64609951/209919677-35d5ca9e-1d65-430c-8d14-07e8877481d3.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209703039-bab45324-48d5-44ad-8a31-39649a097143.png" width="600"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209703041-3ea5acbe-f799-4c06-b50b-8713dd6cc3f2.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/210274831-463d2562-3682-48ff-893e-373eb2eb0708.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/210275204-ea4f4d54-d233-4ec7-afd3-be65861ad845.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/210275202-4e2831e2-1cdf-4be9-96be-294bba4d0f47.png" width="600"><br>
 </p>
 
