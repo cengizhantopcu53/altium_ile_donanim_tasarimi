@@ -1,4 +1,4 @@
-# Uçuş Kayit
+# Uçuş Kayıt
 
 Uçuş Kayit pcb kartı linkteki [kurs](https://www.youtube.com/playlist?list=PL0nSGdzTE4g_wqTei7HLfgDrX8tR8PREq) izlenerek tamamlanmıştır.
 
