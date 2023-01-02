@@ -11,7 +11,7 @@
 
 #### Projeler
 
-  - [Uçuş Kontrol](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/ucus_kontrol)
+  - [Uçuş Kayit](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/ucus_kayit)
 
   - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/buck_converter)
 
