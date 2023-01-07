@@ -17,13 +17,12 @@ NO2, CO ve CO2 gazlarının ölçümü yapılmaktadır.
 <br>
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64609951/209705055-c783c321-852f-46ad-9b34-f51ce31b64cb.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209705060-362ddac0-3c0e-4eb3-adb8-e2e747035e0f.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209705061-04d30008-4e0e-455d-b5c8-a0b1ae15b0b1.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209705062-0147635d-c5d8-4d54-a870-d7ff858633f0.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209705064-5a6dc0e3-8eea-41f2-ba3b-15c2a913ec77.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209854157-f320871c-11f7-4716-9725-e82b67833a98.png" width="600"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/209854154-f32b9e7f-8930-4d1b-a8cf-de85839da8ff.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/211162446-cf5b26f5-49fd-491f-84d3-ffc845f4f301.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/211162445-152e753a-b26a-44da-9948-159b39f9cc79.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/211162441-260c076a-3201-4df4-979f-24b4c242a2ed.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/211162444-0547e7ef-f1e2-4851-b0a3-a356c18b7f4b.png" width="1000"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/211162448-a9144645-de51-463b-8b28-667bfa0c2991.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/211162433-73007373-daaa-462e-ab73-d19ed55ea732.png" width="600"><br>
 
 </p>
 
