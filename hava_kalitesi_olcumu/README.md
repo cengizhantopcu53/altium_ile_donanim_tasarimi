@@ -8,7 +8,7 @@ NO2, CO ve CO2 gazlarının ölçümü yapılmaktadır.
 - İşlemci olarak STM32F103C8T6 kullanılmaktadır.
 - Gaz sensörü seçiminde KEMET marka ürünün TO39 paketli ürün grubu kullanılmıştır.
 - Haberleşme için SIM800C GSM/GPRS modülü kullanılmıştır.
-- Pcb kartı 2 katmanlıdır 
+- Pcb kartı 2 katmanlıdır ve 73x60 mm boyutundadır.
 
 ##
 ***Altium ile PCB Çizimi konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://lnkd.in/d-QzRE9U) ulaşabilirsiniz.*** 
