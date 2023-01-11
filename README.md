@@ -1,5 +1,5 @@
 
-# Altium ile PCB Çizimi
+# Altium ile Donanım Tasarımı
 
 #### 01 Kütüphane Oluşturma
 
@@ -11,12 +11,12 @@
 
 #### Projeler
 
-  - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/ucus_kayit)
+  - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/ucus_kayit)
 
-  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/buck_converter)
+  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/buck_converter)
 
-  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/boost_converter)
+  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/boost_converter)
 
-  - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/guvenlik_sistemi)
+  - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/guvenlik_sistemi)
 
-  - [Hava Kalitesi Ölçümü](https://github.com/cengizhantopcu53/altium_ile_pcb_cizimi/tree/main/hava_kalitesi_olcumu)
+  - [Hava Kalitesi Ölçümü](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/hava_kalitesi_olcumu)
