@@ -10,10 +10,6 @@ NO2, CO ve CO2 gazlarının ölçümü yapılmaktadır.
 - Haberleşme için SIM800C GSM/GPRS modülü kullanılmıştır.
 - Pcb kartı 2 katmanlıdır ve 73x60 mm boyutundadır.
 
-##
-***Altium ile Donanım Tasarımı konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
-##
-
 <br>
 
 <p align="left">
