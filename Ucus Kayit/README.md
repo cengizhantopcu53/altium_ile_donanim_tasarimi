@@ -9,10 +9,6 @@ Uçuş Kayit pcb kartı linkteki [kurs](https://www.youtube.com/playlist?list=PL
 - Kullanıcının kullanabileceği led bulunmaktadır.
 - Pcb kartı 2 katmanlı ve 50x50 mm boyutundadır.
 
-##
-***Altium ile Donanım Tasarımı konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
-##
-
 <br>
 
 <p align="left">
