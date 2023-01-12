@@ -13,10 +13,6 @@ Linkedln paylaşımıma [link](https://www.linkedin.com/feed/update/urn:li:activ
 - Pcb kartı 4 katmanlıdır ve 75x100 mm boyutundadır.
 - Kartın bir bölümü kırılabilir yapıdadır ve bu kısım işlemciye konnektör ile bağlantılıdır.
 
-##
-***Altium ile Donanım Tasarımı konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
-##
-
 <br>
 
 <p align="left">
