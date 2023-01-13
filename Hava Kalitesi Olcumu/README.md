@@ -8,7 +8,7 @@ NO2, CO ve CO2 gazlarının ölçümü yapılmaktadır.
 - İşlemci olarak STM32F103C8T6 kullanılmaktadır.
 - Gaz sensörü seçiminde KEMET marka ürünün TO39 paketli ürün grubu kullanılmıştır.
 - Haberleşme için SIM800C GSM/GPRS modülü kullanılmıştır.
-- Pcb kartı 2 katmanlıdır ve 73x60 mm boyutundadır.
+- Pcb kartı 4 katmanlı ve 73x60 mm boyutundadır.
 
 <br>
 
@@ -17,8 +17,8 @@ NO2, CO ve CO2 gazlarının ölçümü yapılmaktadır.
   <img src="https://user-images.githubusercontent.com/64609951/211162445-152e753a-b26a-44da-9948-159b39f9cc79.png" width="1000"><br>
   <img src="https://user-images.githubusercontent.com/64609951/211162441-260c076a-3201-4df4-979f-24b4c242a2ed.png" width="1000"><br>
   <img src="https://user-images.githubusercontent.com/64609951/211162444-0547e7ef-f1e2-4851-b0a3-a356c18b7f4b.png" width="1000"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/211162448-a9144645-de51-463b-8b28-667bfa0c2991.png" width="600"><br>
-  <img src="https://user-images.githubusercontent.com/64609951/211162433-73007373-daaa-462e-ab73-d19ed55ea732.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/212400626-15009625-4647-40ed-a799-64e08f323af3.png" width="600"><br>
+  <img src="https://user-images.githubusercontent.com/64609951/212400633-fe1bdcd0-b8d8-4cb5-8775-4dd52f1b9eee.png" width="600"><br>
 
 </p>
 
