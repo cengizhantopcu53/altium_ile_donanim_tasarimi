@@ -14,7 +14,7 @@
   - [Hava Kalitesi Ölçümü](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Hava%20Kalitesi%20Olcumu)
   
 ##
-***Altium ile Donanım Tasarımı konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
+***Bu alanda çalışan arkadaşlara yardımcı olması adına tüm ürün gruplarında elektronik komponentlerin symbol ve footprintlerin veritabanında tutulduğu kütüphaneyi  [linkten](https://github.com/atalayroket/atalay_donanimtasarimi) indirip altium programında yükleyip pcb projelerinizde kullanabilirsiniz. Ayrıca Altium ile Donanım Tasarımı konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili yazılara [linkten](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
 ##
 
 <br>
