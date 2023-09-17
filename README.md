@@ -19,7 +19,7 @@
 
 <br>
 
-> **Altium ile PCB Çizimi (Temel Seviye)**
+> **Altium ile PCB Çizimi Eğitimi**
  
 Karabük Üniversitesi öğrencilerine yönelik [Karabük Teknoloji ve İnovasyon Derneği](https://www.instagram.com/kartekinder/) üzerinden 21-22 Mayıs tarihlerinde ücretsiz olarak iki gün boyunca temel seviye pcb çizimi eğitimi verilmiştir. Eğitimde programın kurulumundan kartların üretim dosyaların nasıl oluşturulduğuna kadar ki süreç anlatılmıştır. Eğitimde Buck Converter devresi yapılmıştır. Programın ilk günü Altium Designer programı kurulması ardından kütüphanenin nasıl oluşturulduğu bahsedilmiştir. Daha sonra roket takımı için oluşturduğumuz kütüphaneyi kullanarak şematik tasarım tamamlanmıştır. İkinci gün pcb tasarımı yapılmış ardından gerber dosyası çıktısı alınıp eğitim tamamlanmıştır. 
 
