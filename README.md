@@ -1,15 +1,14 @@
 
 # Altium ile Donanım Tasarımı
 
-#### Konular
 ##### 01 Kütüphane Oluşturma
 ##### 02 Şematik Tasarım
 ##### 03 PCB Tasarım
 ##### 04 Üretim Dosyalarını Oluşturma
 
 #### Örnekler
-  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Buck%20Converter) [LM2596]
-  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Boost%20Converter) [LM2587]
+  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Ornekler/Buck%20Converter) [LM2596]
+  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Ornekler/Boost%20Converter) [LM2587]
 
 #### Projeler
   - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Ucus%20Kayit)
