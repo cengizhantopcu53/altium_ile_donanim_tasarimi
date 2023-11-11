@@ -1,10 +1,11 @@
 
 # Altium ile Donanım Tasarımı
 
-##### 01 Kütüphane Oluşturma
-##### 02 Şematik Tasarım
-##### 03 PCB Tasarım
-##### 04 Üretim Dosyalarını Oluşturma
+#### Konular
+  - [01 Kütüphane Oluşturma](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/01%20Kutuphane%20Olusturma.pdf)
+  - [02 Şematik Tasarım](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/02%20Sematik%20Tasarim.pdf)
+  - [03 PCB Tasarım](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/03%20PCB%20Tasarim.pdf)
+  - [04 Üretim Dosyalarını Oluşturma](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/04%20Uretim%20Dosyalarini%20Olusturma.pdf)
 
 #### Örnekler
   - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Ornekler/Buck%20Converter) [LM2596]
