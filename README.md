@@ -1,14 +1,17 @@
 
 # Altium ile Donanım Tasarımı
 
-#### 01 Kütüphane Oluşturma
-#### 02 Şematik Tasarım
-#### 03 PCB Tasarım
-#### 04 Üretim Dosyalarını Oluşturma
+#### Konular
+##### 01 Kütüphane Oluşturma
+##### 02 Şematik Tasarım
+##### 03 PCB Tasarım
+##### 04 Üretim Dosyalarını Oluşturma
+
+#### Örnekler
+  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Buck%20Converter) [LM2596]
+  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Boost%20Converter) [LM2587]
 
 #### Projeler
-  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Buck%20Converter)
-  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Boost%20Converter)
   - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Ucus%20Kayit)
   - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Guvenlik%20Sistemi)
   - [Hava Kalitesi Ölçümü](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Hava%20Kalitesi%20Olcumu)
