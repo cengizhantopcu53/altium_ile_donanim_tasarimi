@@ -7,10 +7,6 @@
   - [03 PCB Tasarım](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/03%20PCB%20Tasarim.pdf)
   - [04 Üretim Dosyalarını Oluşturma](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/04%20Uretim%20Dosyalarini%20Olusturma.pdf)
 
-#### Örnekler
-  - [Buck Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Ornekler/Buck%20Converter) [LM2596]
-  - [Boost Converter](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Ornekler/Boost%20Converter) [LM2587]
-
 #### Projeler
   - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Ucus%20Kayit)
   - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Guvenlik%20Sistemi)
