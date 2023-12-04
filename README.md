@@ -6,8 +6,9 @@
   - [02 Şematik Tasarım](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/02%20Sematik%20Tasarim.pdf)
   - [03 PCB Tasarım](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/03%20PCB%20Tasarim.pdf)
   - [04 Üretim Dosyalarını Oluşturma](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/04%20Uretim%20Dosyalarini%20Olusturma.pdf)
-  - [Devre Elemanları](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/Devre%20Elemanlari.pdf)
-  - [Devre Tasarımları](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/Devre%20Tasar%C4%B1mlar%C4%B1.pdf)
+
+#### Kılavuzlar
+  - [Devre Analizi](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/Devre%20Analizi.pdf)
 
 #### Projeler
   - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Ucus%20Kayit)
