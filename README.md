@@ -8,7 +8,7 @@
   - [04 Üretim Dosyalarını Oluşturma](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/04%20Uretim%20Dosyalarini%20Olusturma.pdf)
 
 #### Kılavuzlar
-  - [Devre Analizi](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Kılavuzlar/Devre%20Analizi.pdf)
+  - [Devre Analizi](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/K%C4%B1lavuzlar/Devre%20Analizi.pdf)
 
 #### Projeler
   - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Ucus%20Kayit)
