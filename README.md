@@ -7,16 +7,13 @@
   - [03 PCB Tasarım](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/03%20PCB%20Tasarim.pdf)
   - [04 Üretim Dosyalarını Oluşturma](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/Konular/04%20Uretim%20Dosyalarini%20Olusturma.pdf)
 
-#### Kılavuzlar
-  - [Devre Analizi](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/K%C4%B1lavuzlar/Devre%20Analizi.pdf)
-
 #### Projeler
   - [Uçuş Kayıt](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Ucus%20Kayit)
   - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Guvenlik%20Sistemi)
   - [Hava Kalitesi Ölçümü](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/tree/main/Projeler/Hava%20Kalitesi%20Olcumu)
   
 ##
-***Bu alanda çalışan arkadaşlara yardımcı olması adına tüm ürün gruplarında elektronik komponentlerin symbol ve footprintlerin veritabanında tutulduğu [kütüphaneyi](https://github.com/atalayroket/atalay_donanimtasarimi) indirip altium programında yükleyip pcb projelerinizde kullanabilirsiniz. Ayrıca Altium ile Donanım Tasarımı konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili [yazılara](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
+***Bu alanda çalışan arkadaşlara yardımcı olması adına tüm ürün gruplarında elektronik komponentlerin symbol ve footprintlerin veritabanında tutulduğu [kütüphaneyi](https://github.com/atalayroket/atalay_donanimtasarimi) altium programına yükleyerek pcb projelerinizde kullanabilirsiniz. Ayrıca Altium ile Donanım Tasarımı konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili [yazılara](https://github.com/cengizhantopcu53/altium_ile_donanim_tasarimi/blob/main/altium_ile_donanim_tasarimi.pdf) ulaşabilirsiniz.*** 
 ##
 
 <br>
