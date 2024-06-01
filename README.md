@@ -2,10 +2,10 @@
 # Altium ile Donanım Tasarımı
 
 #### Konular
-  - [01 Kütüphane Oluşturma](/01%20Kutuphane%20Olusturma.pdf)
-  - [02 Şematik Tasarım](/02%20Sematik%20Tasarim.pdf)
-  - [03 PCB Tasarım](/03%20PCB%20Tasarim.pdf)
-  - [04 Üretim Dosyalarını Oluşturma](/04%20Uretim%20Dosyalarini%20Olusturma.pdf)
+  - [01 Kütüphane Oluşturma](/Konular/01%20Kutuphane%20Olusturma.pdf)
+  - [02 Şematik Tasarım](/Konular//02%20Sematik%20Tasarim.pdf)
+  - [03 PCB Tasarım](/Konular//03%20PCB%20Tasarim.pdf)
+  - [04 Üretim Dosyalarını Oluşturma](/Konular//04%20Uretim%20Dosyalarini%20Olusturma.pdf)
 
 #### Projeler
   - [Uçuş Kayıt](https://github.com/cengizhantopcu53/ucus_kayit)
