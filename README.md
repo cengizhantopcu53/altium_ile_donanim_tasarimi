@@ -11,7 +11,12 @@
   - [Uçuş Kayıt](https://github.com/cengizhantopcu53/ucus_kayit)
   - [Güvenlik Sistemi](https://github.com/cengizhantopcu53/guvenlik_sistemi)
   - [Hava Kalitesi Ölçümü](https://github.com/cengizhantopcu53/hava_kalitesi_olcumu)
-  
+
+#### Kılavuzlar
+  - [Devre Analizi](https://github.com/cengizhantopcu53/devre-analizi)
+
+<br>
+
 ##
 ***Bu alanda çalışan arkadaşlara yardımcı olması adına tüm ürün gruplarında elektronik komponentlerin symbol ve footprintlerin veritabanında tutulduğu [kütüphaneyi](https://github.com/atalayroket/atalay_donanimtasarimi) altium programına yükleyerek pcb projelerinizde kullanabilirsiniz. Ayrıca Altium ile Donanım Tasarımı konusunda yaptığım çalışmaları derleyip bir belge oluşturdum. Belge içerisindeki kütüphane oluşturma, şematik ve pcb tasarım ile üretim dosyalarını oluşturma ile ilgili [yazılara](/Altium%20ile%20Donanım%20Tasarımı.pdf) ulaşabilirsiniz.*** 
 ##
